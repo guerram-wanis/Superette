@@ -67,4 +67,4 @@ java Test
 
 ## Auteurs
 
-Projet réalisé par Yanis Laftimi (L2 Informatique - Groupe 4).
+Projet réalisé par Guerram wanis (L2 Informatique - Groupe 4).
